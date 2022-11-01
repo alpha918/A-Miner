@@ -11,12 +11,12 @@ Then , please type in the following command to satisfy the miner's requirements 
 
 --- 
 
--pip install binascii
--pip install traceback
--pip install signal
--pip install requests
--pip install colorama
--pip install lxml
+- pip install binascii
+- pip install traceback
+- pip install signal
+- pip install requests
+- pip install colorama
+- pip install lxml
 
 # To start the miner, please use the command below
 python3 A-Miner.py
