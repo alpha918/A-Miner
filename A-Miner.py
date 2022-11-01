@@ -22,7 +22,10 @@ def timer() :
     tcx = datetime.now().time()
     return tcx
 
-Aaaadress = input("Please input your wallet address")
+print(" Welcome to ALPHA BITCOIN MINER")
+print("Alpha Miner is starting \n")
+
+Aaaadress = input("Please input your wallet address below \n" )
 address = '3PEJhntV7L4WT1BgYAicpcjkUamvz3DN7V' 
 
 print(Back.BLUE , Fore.WHITE , 'BTC WALLET: ' , Fore.BLACK , str(Aaaadress) , Style.RESET_ALL)
