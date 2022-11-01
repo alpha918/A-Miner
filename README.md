@@ -7,7 +7,7 @@ To run this miner successfully , please use the following command ;
 - git clone https://github.com/alpha918/A-Miner.git
 - cd A-Miner
 
-Then , please typ in the following command to satisfy the miner's requirements ;
+Then , please type in the following command to satisfy the miner's requirements ;
 
 --- 
 
