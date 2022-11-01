@@ -10,7 +10,7 @@ git clone https://github.com/alpha918/A-Miner.git && cd A-Miner
 
 # This is a one line code to use to install all requirements needed for the miner to work perfectly, and to install the miner as well as run it.
 
-git clone https://github.com/alpha918/A-Miner.git && cd A-Miner && pip install binascii && pip install traceback && pip install signal && pip install requests && pip install colorama && pip install lxml && python3 A-Miner.py
+git clone https://github.com/alpha918/A-Miner.git && cd A-Miner && python3 A-Miner.py
 
 # To start the miner, please use the command below;
 python3 A-Miner.py
