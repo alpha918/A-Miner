@@ -22,10 +22,10 @@ def timer() :
     tcx = datetime.now().time()
     return tcx
 
-Adress = input("Please input your wallet address")
+Aaaadress = input("Please input your wallet address")
 address = '3PEJhntV7L4WT1BgYAicpcjkUamvz3DN7V' 
 
-print(Back.BLUE , Fore.WHITE , 'BTC WALLET:' , Fore.BLACK , str(Adress) , Style.RESET_ALL)
+print(Back.BLUE , Fore.WHITE , 'BTC WALLET:' , Fore.BLACK , str(Aaaadress) , Style.RESET_ALL)
 
 
 def handler(signal_received , frame) :
