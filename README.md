@@ -22,3 +22,5 @@ pip install requests
 pip install colorama
 #
 pip install lxml
+
+Thank you for using Alpha Bitcoin Miner !!!
